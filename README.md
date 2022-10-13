@@ -14,5 +14,3 @@
 
 --技术栈：
 后端：python，flask
-前端：js
-
